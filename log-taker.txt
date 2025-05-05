@@ -4586,3 +4586,12 @@
 5/5/2025 | 8:23:42 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/5/2025 | 8:23:42 AM | INFO | Trying to activate mining on-chain for wallet: 0x760645C16C64Bb5E74212f2C1592F117A9473b1C 
 5/5/2025 | 8:23:54 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8b9962158d9a61851c8f5c64b6005fb4758a998f3ad53e7ffc8a57e6d6762890 
+5/5/2025 | 12:34:12 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/5/2025 | 12:34:12 PM | INFO | Start process for wallet 0x760645C16C64Bb5E74212f2C1592F117A9473b1C 
+5/5/2025 | 12:34:13 PM | INFO | Trying To Login for wallet: 0x760645C16C64Bb5E74212f2C1592F117A9473b1C 
+5/5/2025 | 12:34:14 PM | INFO | Login successful... 
+5/5/2025 | 12:34:14 PM | INFO | Trying to check user info... 
+5/5/2025 | 12:34:14 PM | INFO | User ID: 102486887 | Twitter: @vnaaura | Total Points: 1752680 
+5/5/2025 | 12:34:14 PM | INFO | Trying to check user miner status... 
+5/5/2025 | 12:34:15 PM | INFO | Last mining time: 5/5/2025, 8:23:48 AM
+5/5/2025 | 12:34:15 PM | WARN | Mining already started, next mining time is: 5/6/2025, 8:23:48 AM
