@@ -7733,3 +7733,15 @@
 6/29/2025 | 12:33:07 PM | INFO | Trying to activate mining on-chain for wallet: 0x760645C16C64Bb5E74212f2C1592F117A9473b1C 
 6/29/2025 | 12:33:08 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000","reason":"must be more than 24 hours since the last activation.","transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x760645C16C64Bb5E74212f2C1592F117A9473b1C"},"invocation":null,"revert":{"signature":"Error(string)","name":"Error","args":["must be more than 24 hours since the last activation."]},"shortMessage":"execution reverted: \"must be more than 24 hours since the last activation.\"","info":{"error":{"code":-32603,"message":"VM Exception while processing transaction: revert must be more than 24 hours since the last activation.","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x7f","from":"0x760645c16c64bb5e74212f2c1592f117a9473b1c","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 6/29/2025 | 12:33:08 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+6/29/2025 | 4:19:46 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/29/2025 | 4:19:46 PM | INFO | Start process for wallet 0x760645C16C64Bb5E74212f2C1592F117A9473b1C 
+6/29/2025 | 4:19:47 PM | INFO | Trying To Login for wallet: 0x760645C16C64Bb5E74212f2C1592F117A9473b1C 
+6/29/2025 | 4:19:48 PM | INFO | Login successful... 
+6/29/2025 | 4:19:48 PM | INFO | Trying to check user info... 
+6/29/2025 | 4:19:49 PM | INFO | User ID: 102486887 | Twitter: @vnaaura | Total Points: 2928680 
+6/29/2025 | 4:19:49 PM | INFO | Trying to check user miner status... 
+6/29/2025 | 4:19:49 PM | INFO | Last mining time: 6/28/2025, 12:32:36 PM
+6/29/2025 | 4:19:49 PM | INFO | Trying to start Mining for wallet: 0x760645C16C64Bb5E74212f2C1592F117A9473b1C 
+6/29/2025 | 4:19:50 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+6/29/2025 | 4:19:50 PM | INFO | Trying to activate mining on-chain for wallet: 0x760645C16C64Bb5E74212f2C1592F117A9473b1C 
+6/29/2025 | 4:20:01 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xcf82035b55ea7e53173291a043e8960222a05b35e276baf23f90eccdac2eb387 
